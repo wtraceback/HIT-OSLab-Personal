@@ -4,6 +4,7 @@
 
 
 # 实验后编写的博客
+- [x] [本地实验环境的搭建](https://www.cnblogs.com/wanghuizhao/p/16931249.html)
 
 - [x] [实验项目1-控制系统启动](https://www.cnblogs.com/wanghuizhao/p/16353882.html)
 
