@@ -11,7 +11,7 @@
 
 - [x] [实验项目3-进程运行轨迹的跟踪与统计](https://www.cnblogs.com/wanghuizhao/p/16644919.html)
 
-- [ ] 实验项目4-基于内核栈切换的进程切换
+- [x] [实验项目4-基于内核栈切换的进程切换](https://www.cnblogs.com/wanghuizhao/p/16988619.html)
 
 - [ ] 实验项目5-信号量的实现和应用
 
